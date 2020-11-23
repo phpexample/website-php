@@ -1,3 +1,7 @@
-<?php
-echo "Php website working here";
-?>
+<html>
+  <head>
+    <title>Home</title>
+  </head>
+  <body>
+  </body>
+</html>
